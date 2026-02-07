@@ -154,7 +154,7 @@ const Footer = () => {
           </div>
           <div className="footer-copyright">
             <p>
-              Developed by — <span>YKY STUDIO</span>
+              Developed by — <span>Yousif</span>
             </p>
             <p>This website is using cookies.</p>
             <p>All rights reserverd &copy; 2026</p>
